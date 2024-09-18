@@ -5,7 +5,7 @@ This project’s goal was to analyze IMDb reviews for the One Piece anime and th
 
 One Piece is a series with over 1100 manga volumes and as many anime episodes. I’m passionate about the world-building and the history Eiichiro Oda created. Hence, I’m evaluating the least and most liked episodes and arcs from an anime perspective.</br>
 
-Furthermore, this project aims to explain to any soon-to-be One Piece fan how long this life-changing journey will take.</br>
+Furthermore, this project aims to explain to any soon-to-be One Piece fan how long this life-changing journey would take.</br>
 
 ## Data processing
 Kaggle has many fantastic databases for One Piece fans to work on but [One Piece IMDb ratings](https://www.kaggle.com/datasets/greninja1729/one-piece-imdb-ratings-and-votes) has the episodes' numbers, English name, rating, votes, and duration which made it perfect to start this project with.</br>
