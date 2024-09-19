@@ -1,4 +1,4 @@
-# One Piece Anime Reviews
+# One Piece Anime Review
 
 ## The project
 This project’s goal was to analyze IMDb reviews for the One Piece anime and the series duration. </br>
